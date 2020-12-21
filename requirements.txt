@@ -1,0 +1,5 @@
+blinker==1.4
+simplejson==3.17.2
+python-dotenv==0.15.0
+watchdog==0.8.2
+flask>=1.1.0
